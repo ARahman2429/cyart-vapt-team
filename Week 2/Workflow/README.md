@@ -1,0 +1,1 @@
+This folder documents the complete Vulnerability Assessment and Penetration Testing (VAPT) workflow followed during Week 2, including reconnaissance, scanning, exploitation attempts, validation of results, and reporting, aligned with PTES and NIST SP 800-115.
