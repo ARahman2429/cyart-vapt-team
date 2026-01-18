@@ -1,0 +1,17 @@
+Target: Metasploitable2
+Environment: Internal Lab
+
+Attack Phases Completed:
+- Reconnaissance
+- Enumeration
+- Exploitation
+- Exploit Chaining
+- Reporting
+
+Key Vulnerabilities:
+- Vulnerable FTP service (vsftpd 2.3.4)
+- Exposed unauthenticated bind shell on port 1524
+
+Final Result:
+The target system was fully compromised with root-level privileges
+through multiple independent attack paths.
