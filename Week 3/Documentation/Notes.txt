@@ -1,0 +1,10 @@
+Week 3 – VAPT Documentation Notes
+
+This folder contains all documentation related to the Week 3 VAPT capstone project.
+
+Included items:
+- Final VAPT report (PDF)
+- Supporting notes
+- Evidence screenshots (if applicable)
+
+The documentation follows a PTES-aligned methodology and demonstrates a complete VAPT lifecycle.
