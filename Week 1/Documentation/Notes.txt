@@ -1,0 +1,13 @@
+Week 1 – VAPT Documentation Notes
+
+This folder contains the documentation for the Week 1 Vulnerability Assessment and Penetration Testing (VAPT) exercise.
+
+The assessment was conducted in a controlled laboratory environment using the Metasploitable2 virtual machine.
+
+Key focus areas:
+- VAPT methodology and lifecycle
+- Vulnerability discovery using OpenVAS and Nmap
+- Risk assessment and prioritization
+- Professional security reporting
+
+All testing was performed ethically within an isolated lab environment.
